@@ -1,10 +1,5 @@
 <div align="center">
 
-
-```
-
-```
-
 # Hey, I'm Cauã Grecco
 
 **`Fullstack Developer in Training · PUC-Campinas · Jaguariúna, SP — Brazil`**
