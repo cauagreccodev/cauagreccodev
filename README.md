@@ -112,9 +112,8 @@ Functional calculator in MIPS Assembly, created as an academic challenge. It is 
 <div align="center">
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cauagreccodev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauagreccodev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=cauagreccodev&theme=tokyonight&hide_border=true)
 
