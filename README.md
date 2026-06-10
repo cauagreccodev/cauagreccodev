@@ -8,21 +8,17 @@ Passionate about software development, backend engineering, mobile applications,
 
 Currently focused on Java, Backend Development, Mobile Applications, Databases, and Software Architecture while pursuing a degree in Information Systems.
 
-<br>
-
-<a href="https://linkedin.com/in/cauagrecco">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="cauagrecco11@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/cauagreccodev">
-  <img src="https://img.shields.io/badge/GitHub-cauagreccodev-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/cauagrecco">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:cauagrecco11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-cauagrecco11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/cauagreccodev">
+    <img src="https://img.shields.io/badge/GitHub-cauagreccodev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
