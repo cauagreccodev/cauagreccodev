@@ -1,143 +1,196 @@
 <div align="center">
 
-# Hey, I'm Cauã Grecco
+# Hey, I'm Cauã Grecco 👋
 
-**`Fullstack Developer in Training · PUC-Campinas · Jaguariúna, SP — Brazil`**
+### Full Stack & Mobile Developer in Training | Information Systems @ PUC-Campinas
 
-Computer Information Systems student passionate about building things that actually work — from REST APIs with FastAPI to dashboards with Apache Superset. I'm constantly exploring languages, data structures, and databases, always pushing beyond what's required in class.
+Passionate about software development, backend engineering, mobile applications, databases, and problem solving.
+
+Currently focused on Java, Backend Development, Mobile Applications, Databases, and Software Architecture while pursuing a degree in Information Systems.
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cauagrecco)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauagrecco11@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-cauagreccodev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cauagreccodev)
+<a href="https://linkedin.com/in/cauagrecco">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:cauagrecco11@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/cauagreccodev">
+  <img src="https://img.shields.io/badge/GitHub-cauagreccodev-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-## About Me
+# 👨‍💻 About Me
 
+```java
+public class CauaGrecco {
 
-```python
-class cauagreccodev:
-    location    = "Jaguariúna, São Paulo, Brazil 🇧🇷"
-    degree      = "B.Sc. Information Systems — PUC-Campinas (graduating Dec/2028)"
-    languages   = ["Portuguese 🇧🇷 (Native)", "English B2"]
-    studying    = ["Java", "Python", "C / C++", "Dart", "SQL", "Lua"]
-    focus       = ["Fullstack Development", "REST APIs", "Dashboards", "Data Structures", "Databases"]
-    looking_for = "IT Internship / Software Development"
+    private final String location = "Jaguariúna, São Paulo, Brazil 🇧🇷";
+    private final String university = "PUC-Campinas";
+    private final String degree = "B.Sc. Information Systems";
+    private final String graduation = "December 2028";
 
-    def mission(self):
-        return "Turn logic into clean code, and clean code into real solutions 🚀"
+    private final String[] languages = {
+        "Portuguese (Native)",
+        "English (B2)"
+    };
+
+    private final String[] interests = {
+        "Backend Development",
+        "Full Stack Development",
+        "Mobile Development",
+        "REST APIs",
+        "Databases",
+        "Data Structures",
+        "Software Architecture"
+    };
+
+    private final String currentlySeeking =
+        "Software Development Internship";
+
+    public String mission() {
+        return "Transform ideas into scalable and reliable software.";
+    }
+}
 ```
 
 ---
 
-## Tech Stack
+# 🚀 Tech Stack
 
-<div align="center">
+## 💻 Languages
 
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🗄️ Databases
+## 🗄️ Databases
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### ⚙️ Frameworks & Tools
+## 📱 Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+## ⚙️ Frameworks & Tools
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Apache Superset](https://img.shields.io/badge/Apache%20Superset-3A3A3A?style=for-the-badge&logo=apache-superset&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-222222?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-</div>
+### 📚 Currently Learning
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ---
 
+# 📌 Featured Projects
 
-## Featured Projects
+## 🔹 BD Motor in RAM Memory
 
-### [TaskOps](https://github.com/cauagreccodev/TaskOps)
-> **Task Management REST API** — `Python` · `FastAPI` · `SQLite`
+**Tech:** Java
 
-A full-featured REST API for task management with complete CRUD operations and relational database integration. Built with real-world backend architecture and clean code practices.
+Academic project that simulates a database engine running entirely in RAM memory, focusing on data structures, memory management, indexing concepts, and efficient data retrieval.
 
----
-
-### [Huffman-C-Compressor](https://github.com/cauagreccodev/Huffman-C-Compressor)
-> **Lossless text compressor** — `C`
-
-A Huffman Tree algorithm implemented in pure C, featuring custom data structures and dynamic memory management. Performs lossless text compression with a focus on low-level performance.
+🔗 https://github.com/cauagreccodev/BD-Motor-in-RAM-Memory
 
 ---
 
-### [MIPS-Assembly-Interactive-Calculator](https://github.com/cauagreccodev/MIPS-Assembly-Interactive-Calculator)
-> **Interactive console calculator** — `Assembly MIPS`
+## 🔹 TaskOps
 
-A fully functional calculator built entirely in MIPS Assembly, supporting floating-point operations and exception handling. Demonstrates deep understanding of computer architecture and low-level programming.
+**Task Management REST API**
 
----
+**Tech:** Python • FastAPI • SQLite
 
-### [PI_RPG](https://github.com/cauagreccodev/PI_RPG)
-> **Integrative Project — RPG Game** — `Dart`
+A complete REST API implementing CRUD operations, relational database integration, validation, and clean backend architecture concepts.
 
-University integrative project in Dart, exploring game logic and interactive application development.
+🔗 https://github.com/cauagreccodev/TaskOps
 
 ---
 
-### [MIPS-Assembly-Interactive-Calculator](https://github.com/cauagreccodev/MIPS-Assembly-Interactive-Calculator)
-> **Assembly MIPS project example**
+## 🔹 PUC Quest RPG
 
-Functional calculator in MIPS Assembly, created as an academic challenge. It is not my main focus, but a demonstration of low-level learning.
+**Tech:** Dart • Flutter • Firebase
+
+A mobile RPG game developed as an academic project, featuring quests, progression systems, geolocation-based mechanics, Firebase integration, and interactive gameplay experiences.
+
+🔗 https://github.com/cauagreccodev/PUC-Quest-RPG
 
 ---
 
-## GitHub Stats
+## 🔹 Huffman C Compressor
+
+**Tech:** C • Data Structures • Algorithms
+
+Lossless text compression using Huffman Trees, custom data structures, and dynamic memory management.
+
+🔗 https://github.com/cauagreccodev/Huffman-C-Compressor
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauagreccodev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauagreccodev&layout=compact&theme=tokyonight&hide_border=true"/>
 
+</div>
 
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=cauagreccodev&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=cauagreccodev&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## Education & Certifications
+# 🎓 Education & Certifications
 
-| Institution | Course | Status |
-|---|---|---|
-| PUC-Campinas | B.Sc. Information Systems | In progress — graduating Dec/2028 |
-| CNA Language School | English | In progress — concludes 2028 |
-| Bradesco / Guanabara | Python Programming Course | Completed |
+| Institution | Program | Status |
+|------------|----------|---------|
+| PUC-Campinas | B.Sc. Information Systems | In Progress (Expected Dec/2028) |
+| CNA Language School | English | In Progress (B2 Level) |
+| Fundação Bradesco | Python Programming | Completed |
+| Curso em Vídeo (Gustavo Guanabara) | Python Programming | Completed |
+
+---
+
+# 🎯 Current Goals
+
+- Secure a Software Development Internship
+- Deepen Java and Object-Oriented Programming knowledge
+- Learn Spring Boot and enterprise backend development
+- Improve software architecture and design patterns skills
+- Build larger full-stack and mobile applications
+- Contribute to open-source projects
 
 ---
 
 <div align="center">
 
+### 🚀 Open to Software Development Internship Opportunities
 
-### Open to IT internship and Software Development opportunities!
+*"Every great system started with a simple Hello, World!"*
 
-*"Every great system started with a single `print('Hello, World!')`"*
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cauagreccodev.cauagreccodev)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=cauagreccodev.cauagreccodev"/>
 
 </div>
+```
