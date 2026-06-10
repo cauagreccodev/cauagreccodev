@@ -20,13 +20,14 @@ Currently focused on Java, Backend Development, Mobile Applications, Databases, 
   </a>
 </p>
 
+</div>
+
 ---
 
 # 👨‍💻 About Me
 
 ```java
 public class CauaGrecco {
-
     private final String location = "Jaguariúna, São Paulo, Brazil 🇧🇷";
     private final String university = "PUC-Campinas";
     private final String degree = "B.Sc. Information Systems";
@@ -47,8 +48,7 @@ public class CauaGrecco {
         "Software Architecture"
     };
 
-    private final String currentlySeeking =
-        "Software Development Internship";
+    private final String currentlySeeking = "Software Development Internship";
 
     public String mission() {
         return "Transform ideas into scalable and reliable software.";
