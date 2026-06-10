@@ -13,7 +13,7 @@ Currently focused on Java, Backend Development, Mobile Applications, Databases, 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cauagrecco11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/cauagreccodev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -144,13 +144,9 @@ Lossless text compression using Huffman Trees, custom data structures, and dynam
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauagreccodev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauagreccodev&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Estudos"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauagreccodev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=cauagreccodev&theme=tokyonight&hide_border=true"/>
 
