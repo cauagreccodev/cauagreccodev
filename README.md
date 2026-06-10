@@ -9,14 +9,14 @@ Passionate about software development, backend engineering, mobile applications,
 Currently focused on Java, Backend Development, Mobile Applications, Databases, and Software Architecture while pursuing a degree in Information Systems.
 
 <p align="center">
-  <a href="https://linkedin.com/in/cauagrecco">
+  <a href="https://www.linkedin.com/in/cauagrecco/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:cauagrecco11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-cauagrecco11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/cauagreccodev">
-    <img src="https://img.shields.io/badge/GitHub-cauagreccodev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -104,7 +104,7 @@ public class CauaGrecco {
 
 Academic project that simulates a database engine running entirely in RAM memory, focusing on data structures, memory management, indexing concepts, and efficient data retrieval.
 
-🔗 https://github.com/cauagreccodev/BD-Motor-in-RAM-Memory
+🔗 [View repository](https://github.com/cauagreccodev/BD-Motor-in-RAM-Memory)
 
 ---
 
@@ -116,7 +116,7 @@ Academic project that simulates a database engine running entirely in RAM memory
 
 A complete REST API implementing CRUD operations, relational database integration, validation, and clean backend architecture concepts.
 
-🔗 https://github.com/cauagreccodev/TaskOps
+🔗 [View repository](https://github.com/cauagreccodev/TaskOps)
 
 ---
 
@@ -126,7 +126,7 @@ A complete REST API implementing CRUD operations, relational database integratio
 
 A mobile RPG game developed as an academic project, featuring quests, progression systems, geolocation-based mechanics, Firebase integration, and interactive gameplay experiences.
 
-🔗 https://github.com/cauagreccodev/PUC-Quest-RPG
+🔗 [View repository](https://github.com/cauagreccodev/PUC-Quest-RPG)
 
 ---
 
@@ -136,7 +136,7 @@ A mobile RPG game developed as an academic project, featuring quests, progressio
 
 Lossless text compression using Huffman Trees, custom data structures, and dynamic memory management.
 
-🔗 https://github.com/cauagreccodev/Huffman-C-Compressor
+🔗 [View repository](https://github.com/cauagreccodev/Huffman-C-Compressor)
 
 ---
 
@@ -189,4 +189,3 @@ Lossless text compression using Huffman Trees, custom data structures, and dynam
 <img src="https://visitor-badge.laobi.icu/badge?page_id=cauagreccodev.cauagreccodev"/>
 
 </div>
-```
