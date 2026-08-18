@@ -137,21 +137,7 @@ Lossless text compression using Huffman Trees, custom data structures, and dynam
 
 🔗 [View repository](https://github.com/cauagreccodev/Huffman-C-Compressor)
 
----
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauagreccodev&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Estudos"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=cauagreccodev&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🎓 Education & Certifications
 
